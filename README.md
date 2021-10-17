@@ -1,1 +1,1 @@
-- 👋 Example project
+- 👋 Demo project
